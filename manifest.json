@@ -1,0 +1,12 @@
+{
+  "Name": "FarmQueue",
+  "Author": "MLD",
+  "Version": "0.5.2",
+  "Description": "Drag a rectangle over your farm and your farmer automatically walks over and completes every job inside it - tilling, watering, planting, harvesting, chopping, mining, loading machines and more. Inspired by Don't Starve Together's ActionQueue Reborn.",
+  "UniqueID": "MLD.FarmQueue",
+  "EntryDll": "FarmQueue.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": [
+    "Nexus:54145"
+  ]
+}

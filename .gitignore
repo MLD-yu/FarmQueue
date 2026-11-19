@@ -1,0 +1,7 @@
+bin/
+obj/
+*.zip
+.research/
+
+# 智能体工作数据 / 项目记忆：只在本地，不随源码发布
+.workbuddy/
